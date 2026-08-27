@@ -1,11 +1,11 @@
 🏫 **Media Studies 200: Intro to Media Studies**     
 🎓 Intended for 60 undergraduate students     
-📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR    
+📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR 
 🪑 M and Th, 1-2:20pm | COR B108 | 1.5 units   
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
-✅ Teaching assistant (marking): Tatiana Popova (she/her)   
-⬇️ Download this document in PDF (available soon; licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
+✅ Teaching assistant (marking): Tatiana Popova (she | her)   
+⬇️ Download this document in [PDF](mdia200Fall2026Syllabus.pdf) (licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 
 Contents: 
 
@@ -87,7 +87,7 @@ I am asking you to complete five assignments this term.
 * [**Exit tickets**](https://jentery.github.io/mdia200v7/exittickets.html): 10% of your final grade (14 of them, each due by the end of class on the day prompted)
 * **[Worksheet 1](https://jentery.github.io/mdia200v7/worksheet1.html)**: 20% of your final grade (due by Monday, October 5th)
 * **[Worksheet 2](https://jentery.github.io/mdia200v7/worksheet2.html)**: 20% of your final grade (due by Monday, October 26th)
-* **[Worksheet 3](https://jentery.github.io/mdia200v7/worksheet3.html)**: 25% of your final grade (due by Thursday, December 3rd)
+* **[Worksheet 3](https://jentery.github.io/mdia200v7/worksheet3.html)**: 25% of your final grade (due by Monday, November 30th)
 * **[Portfolio](https://jentery.github.io/mdia200v7/portfolio.html)**: 25% of your final grade (due by Monday, December 14th)
 
 *Exit tickets* (14 of them): At the end of 19 different class sessions, I will ask you to use a notecard (which I will provide) to respond to a prompt that will ask you to share what you're learning from class sessions, what you hope to learn, and/or what questions you have. You will submit your responses on the notecard by the end of class. You should submit a total of 14 exit tickets (meaning you don't need to submit one at the end of every class), and we will track your submissions in Brightspace. See the schedule below for sessions *without* an exit ticket. 
@@ -286,17 +286,17 @@ Before class, please read the "Narrative" handout.
 
 Before class, please read the "Fandom" handout.  
 
-*Today is the last session covered by Worksheet 3, which is due by Thursday, December 3rd.*
+*Today is the last session covered by Worksheet 3, which is due by Monday, November 30th.*
 
 ## M Nov. 30: Preservation 
 
 Before class, please read the "Preservation" handout. 
 
+*Worksheet 3 is due today.*
+
 ## Th Dec. 3: Before You Make a Thing 
 
 Before class, please read the "Before You Make a Thing" handout. 
-
-*Worksheet 3 is due today.*
 
 no exit ticket today
 
