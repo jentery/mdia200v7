@@ -58,25 +58,18 @@ I will use the following rubric, based on [UVic's official grading system](https
 
 The total of these points (0-100) constitutes 20% of your final mark in this course. 
 
-15 points will be deducted from the overall mark if no references are included at the end of the worksheet (see "Citing Your Sources").
+Note that: 
 
-8 points will be deducted from the overall mark if the references at the end of the worksheet are not formatted according to an established citation style (see "Citing Your Sources").
-
-5 points will be deducted for every source that's used in a response but is not included in the references section at the end of the worksheet (see "Citing Your Sources").
-
-5 points will be deducted for every fabricated source used in the worksheet (see "Citing Your Sources").
-
-I encourage you to cite the course handouts but do not expect you to do so unless you quote or paraphrase them. See "Cite this Handout" at the end of every handout. 
-
-2 points will be deducted for every 50 words over the prescribed word count. 
-
-*You do not need to meet the word count in each response to earn a high mark.* 
-
-I recommend using prose (paragraphs) rather than point form in your responses. Prose is more synthetic and will allow you to make connections.
-
-I also recommend writing your responses from the first-person perspective. That point of view makes it easier for you to explain your decisions and share what you learned from each exercise. 
-
-You should avoid repetition within responses and across them. I do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
+* 15 points will be deducted from the overall mark if no references are included at the end of the worksheet (see "Citing Your Sources").
+* 8 points will be deducted from the overall mark if the references at the end of the worksheet are not formatted according to an established citation style (see "Citing Your Sources").
+* 5 points will be deducted for every source that's used in a response but is not included in the references section at the end of the worksheet (see "Citing Your Sources").
+* 5 points will be deducted for every fabricated source used in the worksheet (see "Citing Your Sources").
+* I encourage you to cite the course handouts but do not expect you to do so unless you quote or paraphrase them. See "Cite this Handout" at the end of every handout. 
+* 2 points will be deducted for every 50 words over the prescribed word count. 
+* You do not need to meet the word count in each response to earn a high mark.
+* I recommend using prose (paragraphs) rather than point form in your responses. Prose is more synthetic and will allow you to make connections.
+* I also recommend writing your responses from the first-person perspective. That point of view makes it easier for you to explain your decisions and share what you learned from each exercise. 
+* You should avoid repetition within responses and across them. I do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
 
 ## Generative AI Tools 
 
