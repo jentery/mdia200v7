@@ -4,7 +4,7 @@
 🪑 M and Th, 1-2:20pm | COR B108 | 1.5 units   
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
-✅ Teaching assistant (marking): Tatiana Popova (she/her)
+✅ Teaching assistant (marking): Tatiana Popova (she/her)   
 ⬇️ Download this document in PDF (available soon; licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 
 Contents: 
