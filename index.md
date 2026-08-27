@@ -25,8 +25,6 @@ Contents:
 We acknowledge and respect the L&#601;k&#787;&#695;&#601;&#331;&#601;n (Songhees and X&#695;seps&#601;m / Esquimalt) Peoples on whose territory the university stands, and the L&#601;k&#787;&#695;&#601;&#331;&#601;n and W&#817;S&#193;NE&#262; Peoples whose historical relationships with the land continue to this day.
 
 In [this video](https://www.youtube.com/watch?v=UVNGEDpqThg), Yux&#8217;wey&#8217;lupton, Dr. Clarence "Butch" Dick of the Songhees Nation, welcomes visitors to the traditional lands of the L&#601;k&#787;&#695;&#601;&#331;&#601;n (Songhees and X&#695;seps&#601;m / Esquimalt) and W&#817;S&#193;NE&#262; Peoples in L&#601;k&#787;&#695;&#601;&#331;&#601;n and English. This acknowledgement was developed through UVic's continued dialogue and relationships with the local Nations, in recognition of their presence and governance structure in these territories.  
-
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/UVNGEDpqThg?si=SfmSfYLDYzgDRcmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
   
 # Description
 
