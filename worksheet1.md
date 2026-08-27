@@ -76,7 +76,7 @@ I recommend using prose (paragraphs) rather than point form in your responses. P
 
 I also recommend writing your responses from the first-person perspective. That point of view makes it easier for you to explain your decisions and share what you learned from each exercise. 
 
-You should avoid repetition within responses and across them. We do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
+You should avoid repetition within responses and across them. I do not recommend writing about the same topic or theme in every response (e.g., four responses about video games, TikTok, or a particular fandom).
 
 ## Generative AI Tools 
 
