@@ -18,7 +18,7 @@ The worksheet is *open-book*, meaning you are allowed to use handouts, the cours
 
 You should download the worksheet (coming soon) and complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
-Note that this webpage contains information (including information about how we'll assess your responses) that does *not* appear in the downloadable worksheet. I thus recommend reading this entire page before you start the assignment. 
+Note that this webpage contains information (including information about how I'll assess your responses) that does *not* appear in the downloadable worksheet. I thus recommend reading this entire page before you start the assignment. 
 
 ## Format
 
