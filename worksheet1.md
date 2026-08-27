@@ -1,7 +1,7 @@
 🏫 **Media Studies 200: Intro to Media Studies**     
 🎓 Intended for 60 undergraduate students     
-📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR   
-🪑 M and Th, 1-2:20pm | COR B108 | 1.5 units   
+📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR     
+🪑 M and Th, 1-2:20pm | 1.5 units   
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
 ✅ Teaching assistant (marking): Tatiana Popova (she | her)
