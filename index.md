@@ -5,7 +5,7 @@
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
 ✅ Teaching assistant (marking): Tatiana Popova (she | her)   
-⬇️ Download this document in [PDF](mdia200Fall2026Syllabus.pdf) (licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
+⬇️ Download this document in PDF (available soon; licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 
 Contents: 
 
@@ -226,7 +226,7 @@ Before class, please read the "Interfaces" handout.
 
 ## MODULE 3: Approaches (eleven sessions) 
 
-This module begins on Thursday, October 22nd and ends on Monday, November 30th. 
+This module begins on Thursday, October 22nd and ends on Thursday, December 3rd. 
 
 ## Th Oct. 22: Media Effects 
 
