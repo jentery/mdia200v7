@@ -458,7 +458,7 @@ All course materials, including my slides, handouts, and lectures, are made avai
 
 I do not recommend relying on generative AI tools to respond to assignments in this course. AI-generated responses tend to be generic, and they lack self-reflection, which is crucial to Media Studies. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, it tends to hinder or “deskill” the learning process, and it's ultimately not a "market advantage" in media professions. 
 
-All sources, including generative AI tools, must be properly cited. I will consider the failure to cite sources and any use of generative AI tools an academic integrity violation. Use of generative AI tools includes the use of any software to generate, complete, manipulate, revise, correct, or somehow alter your work.
+All sources, including generative AI tools, must be properly cited. I will consider the failure to cite sources and any use of generative AI tools to be an academic integrity violation. Use of generative AI tools includes the use of any software to generate, complete, manipulate, revise, correct, or somehow alter your work.
 
 Language for this policy was drawn from language used at the [University of Washington](https://teaching.washington.edu/course-design/ai/sample-ai-syllabus-statements/).
 
