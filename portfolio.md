@@ -67,9 +67,11 @@ Do not use a platform other than Brightspace to submit and share your materials.
 
 ## When to Submit It
 
-Your portfolio is due by Monday, December 14th, but there's a no-penalty, 24-hour grace period through Tuesday, December 15th. 
+Your portfolio is due by Monday, December 14th, but there’s a 24-hour grace period through Tuesday, December 15th.
 
-I will deduct ten points for every business day I receive your portfolio after Tuesday, December 15th. I will close the submission portal at 10am on Friday, December 18th and cannot accept any submissions after the portal closes. Thank you for understanding.
+I will deduct ten points for every business day I receive your portfolio after Tuesday, December 15th. I will close the submission portal at 10am on Friday, December 18th, and cannot accept submissions after the portal closes.
+
+I will not accept your portfolio by email. Thank you for understanding.
 
 ## Appendix A 
 
