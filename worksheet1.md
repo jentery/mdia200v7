@@ -89,6 +89,6 @@ Please download the worksheet (coming soon), complete it, and submit 1) a DOCX, 
 
 ## When to Submit It
 
-A response to Worksheet 1 is due by Monday, October 5th, but there is a 24-hour grace period through Tuesday, October 6th. I will deduct five points for every business day I receive Worksheet 1 after October 6th. I will close the submission portal for Worksheet 1 at 10am on Monday, October 19th, and cannot accept any submissions after the portal closes.
+Worksheet 1 is due by Monday, October 5th, but there is a 24-hour grace period through Tuesday, October 6th. I will deduct five points for every business day I receive Worksheet 1 after October 6th. I will close the submission portal on Monday, October 19th, and cannot accept submissions after it closes.
 
-I will not accept any submissions by email. Thanks for understanding. 
+I will not accept any submissions by email. Thanks for understanding.
