@@ -30,7 +30,7 @@ In [this video](https://www.youtube.com/watch?v=UVNGEDpqThg), Yux&#8217;wey&#821
 
 This course "surveys the cultural and material roles media play around the world in the 21st century. Emphasis on building a common vocabulary for studying media as well as understanding how audio, images, video, and text mediate people's relation to culture." For more information, see ["MDIA200 - Media in the 21st Century"](https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/view/687024ab8633d4ba7543dcc5) in UVic's academic calendar. 
 
-The course counts toward UVic's new major, minor, general, and certificate in [Media Studies](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs).
+The course counts toward UVic's new major, minor, general, and certificate in [Media Studies](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/ByHd7k8cxl?bc=true&bcCurrent=Media%20Studies&bcItemType=programs).
 
 # Goals
 
