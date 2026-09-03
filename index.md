@@ -394,7 +394,7 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. Weekends and holidays do not count as business days. 
 
-I cannot accept an exit ticket after the class session it was assigned, I will not accept worksheets more than two weeks after they are due, and I cannot accept the portfolio after Thursday, December 17th.  
+I cannot accept an exit ticket after the class session it was assigned, I will not accept worksheets more than two weeks after they are due, and I cannot accept the portfolio after 10am on Friday, December 18th.   
 
 Please email me if you need an extension for any assignment (before it is due), and we can discuss possibilities on a case-by-case basis.    
 
@@ -414,7 +414,7 @@ This [page](https://www.uvic.ca/calendar/future/undergrad/index.php#/content/64b
 
 ### Creating a Respectful, Inclusive, and Productive Learning Environment
 
-UVic is committed to promoting critical academic discourse while providing a respectful and productive learning environment across all modalities of learning and teaching. All members of the university community have the right to experience, and the responsibility to help create, such an environment. In any course, the instructor has the primary responsibility for creating a respectful, inclusive and productive learning environment in a manner consistent with other university policies and regulations. Instructors or students who have unresolved questions or concerns about a particular learning environment should bring them to the Chair or Director of the unit concerned (or Dean, in the case of undepartmentalized faculties).
+UVic is committed to promoting critical academic discourse while providing a respectful and productive learning environment across all modalities of learning and teaching. All members of the university community have the right to experience, and the responsibility to help create, such an environment. In any course, the instructor has the primary responsibility for creating a respectful, inclusive and productive learning environment in a manner consistent with other university policies and regulations. Students who have unresolved questions or concerns about a particular learning environment should bring them to the Dean (since Media Studies is not a department, and I am its director).
 
 ### Accessibility 
 
@@ -436,7 +436,7 @@ UVic recognizes its obligation to make reasonable accommodation for students who
 
 UVic is committed to promoting a safe, respectful and supportive learning, living, and working environment. As part of the university community, each student is responsible for their personal conduct as it affects the university community, university activities, and the university's property. [The Office of Student Life](https://www.uvic.ca/services/studentlife/student-conduct/index.php) works directly with the university community to review and help resolve non-academic student conduct concerns. They administer the university's Resolution of Non-Academic Misconduct Allegations policy and serve as a supportive resource to the university community.
 
-The Tri-Faculty of Humanities, Science, and Social Sciences is committed to developing in students the knowledge, skills and values necessary to become leaders in their chosen professions and good citizens, both locally and globally. To that end, faculty, staff and students work together to promote professionalism, including personal responsibility, respect, honesty and integrity in all our students, and they should be familiar with the [tri-faculty standards for professional behaviour](www.uvic.ca/advising/_assets/docs/tri-fac-student-code-of-conduct.pdf).
+The Tri-Faculty of Humanities, Science, and Social Sciences is committed to developing in students the knowledge, skills and values necessary to become leaders in their chosen professions and good citizens, both locally and globally. To that end, faculty, staff and students work together to promote professionalism, including personal responsibility, respect, honesty and integrity in all our students, and they should be familiar with the [tri-faculty standards for professional behaviour](https://www.uvic.ca/advising/_assets/docs/tri-fac-student-code-of-conduct.pdf).
 
 ### Non-Academic Student Conduct 
 
@@ -450,13 +450,13 @@ Students are responsible for the entire content and form of their work. Nothing 
 
 ### Copyright 
 
-All course materials, including my slides, handouts, and lectures, are made available for educational purposes and the exclusive use of students in this course. The material is protected under copyright law even if it is not marked as such, and the syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
+All course materials, including my slides, handouts, and lectures, are made available for educational purposes and the exclusive use of students in this course. The material is protected under copyright law even if it is not marked as such, and the syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. 
 
 ### Generative AI Tools
 
 I do not recommend relying on generative AI tools to respond to assignments in this course. AI-generated responses tend to be generic, and they lack self-reflection, which is crucial to Media Studies. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, it tends to hinder or “deskill” the learning process, and it's ultimately not a "market advantage" in media professions. 
 
-All sources, including generative AI tools, must be properly cited. I will consider the failure to cite sources and any use of generative AI tools to be an academic integrity violation. Use of generative AI tools includes the use of any software to generate, complete, manipulate, revise, correct, or somehow alter your work.
+All sources, including the use of generative AI tools, must be properly cited. I will treat the failure to cite sources and generative AI tools as an academic integrity violation. Use of generative AI tools includes the use of any software to generate, complete, manipulate, revise, correct, or somehow alter your work.
 
 Language for this policy was drawn from language used at the [University of Washington](https://teaching.washington.edu/course-design/ai/sample-ai-syllabus-statements/).
 
