@@ -5,7 +5,7 @@
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
 ✅ Teaching assistant (marking): Tatiana Popova (she | her)   
-⬇️ Download this document in PDF (available soon; licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
+⬇️ Download this document in [PDF](mdia200SFall2026Syllabus.pdf) (licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/))
 
 Contents: 
 
