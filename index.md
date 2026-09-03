@@ -1,7 +1,7 @@
 🏫 **Media Studies 200: Intro to Media Studies**     
 🎓 Intended for 60 undergraduate students     
-📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR   
-🪑 M and Th, 1-2:20pm | 1.5 units     
+📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR 
+🪑 M and Th, 1-2:20pm | COR B108 | 1.5 units   
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
 ✅ Teaching assistant (marking): Tatiana Popova (she | her)   
@@ -30,7 +30,7 @@ In [this video](https://www.youtube.com/watch?v=UVNGEDpqThg), Yux&#8217;wey&#821
 
 This course "surveys the cultural and material roles media play around the world in the 21st century. Emphasis on building a common vocabulary for studying media as well as understanding how audio, images, video, and text mediate people's relation to culture." For more information, see ["MDIA200 - Media in the 21st Century"](https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/view/687024ab8633d4ba7543dcc5) in UVic's academic calendar. 
 
-The course counts toward UVic's new [Media Studies](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs) major, minor, general, and certificate programs.  
+The course counts toward UVic's new major, minor, general, and certificate in [Media Studies](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs).
 
 # Goals
 
