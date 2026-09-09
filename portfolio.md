@@ -1,7 +1,7 @@
 🏫 **Media Studies 200: Intro to Media Studies**     
 🎓 Intended for 60 undergraduate students     
-📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR    
-🪑 M and Th, 1-2:20pm | 1.5 units   
+📆 Fall 2026 at UVic | CRN: 12185 | Req: AWR 
+🪑 M and Th, 1-2:20pm | COR B108 | 1.5 units   
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: Th, 2:30-3:30pm in CLE D331    
 ✅ Teaching assistant (marking): Tatiana Popova (she | her)
@@ -18,8 +18,6 @@ This open-book assignment contains *one* prompt, and you may respond to it in *o
 
 * **Option 1**: text plus images and/or audio, using no more than 1250 words 
 * **Option 2**: 7-12 minutes of video or audio
-
-Your response is worth 100 points and 25% of your final grade. 
 
 ## The Prompt 
 
@@ -50,28 +48,35 @@ The degree to which your response:
 * Demonstrates an awareness of your interlocutor and how you're communicating with them. 
 * Demonstrates and communicates how you might apply what you learned in this course. 
 * Makes compelling use of concrete examples across a range of what's available (over time, across topics, through various media).
+* Engages and even enhances the course material with original insights.
 
 For Option 1: 5 points will be deducted for every 250 words over the prescribed word count. 
 
 For Option 2: 5 points will be deducted for every minute your video or audio file exceeds 12 minutes. 
 
-The portfolio is worth 100 points (0-100) and constitutes 25% of your final mark in this course. 
+The portfolio is worth 100 points (0-100) and constitutes **25% of your final mark** in this course. 
 
 *You do not need to meet the word count or 12-minute mark to earn a high grade on this assignment.* 
 
+## Generative AI Tools 
+
+I do not recommend relying on generative AI tools to respond to this assignment. AI-generated responses tend to be generic, and they lack self-reflection, which is crucial to Media Studies. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, it tends to hinder or "deskill" the learning process, and it's ultimately not a "market advantage" in media professions. 
+
+I will consider the failure to cite any use of generative AI tools to be an academic integrity violation. Use of generative AI tools includes the use of any software to generate, complete, manipulate, or revise your work; however, the use of grammar checkers is acceptable. 
+
+Language for this policy was drawn from language used at the [University of Washington](https://teaching.washington.edu/course-design/ai/sample-ai-syllabus-statements/).
+
 ## What to Submit 
 
-Please submit a DOCX, ODT, PAGES, PDF, MP4, MOV, MP3, and/or WAV file containing your response. You are also welcome to attach media files to your submission in Brightspace. 
+Please submit a DOCX, ODT, PAGES, PDF, MP4, MOV, MP3, and/or WAV file containing your response. You are also welcome to upload media files to your submission in Brightspace. 
 
 Do not use a platform other than Brightspace to submit and share your materials. 
 
 ## When to Submit It
 
-Your portfolio is due by Monday, December 14th, but there’s a 24-hour grace period through Tuesday, December 15th.
+Your portfolio is due by Monday, December 14th, but there's a no-penalty, 24-hour grace period through Tuesday, December 15th. 
 
-I will deduct ten points for every business day I receive your portfolio after Tuesday, December 15th. I will close the submission portal at 10am on Friday, December 18th, and cannot accept submissions after the portal closes.
-
-I will not accept your portfolio by email. Thank you for understanding.
+I will deduct ten points for every business day I receive your portfolio after Tuesday, December 15th. I will close the submission portal at 10am on Friday, December 18th and cannot accept any submissions after the portal closes. Thank you for understanding.
 
 ## Appendix A 
 
