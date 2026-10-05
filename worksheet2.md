@@ -30,6 +30,15 @@ Some prompts ask you to create media. Please upload your audio, image, or video 
 
 ## The Five Prompts (Select Four)
 
+Six tips for responding to these prompts: 
+
+* Write in first-person to convey your ideas, explain your decisions, and reflect on them.
+* Use prose instead of point form. Prose is more synthetic. It’ll help you make connections, develop your ideas, and create a path for your readers to follow.
+* Use before-and-after comparisons to communicate what you’re learning: for instance, “Before conducting this exercise, I didn’t know . . .” or “Prior to studying the content industry, I always assumed that . . .” These gestures reflect concretely on learning.
+* Experiment. Apply what’s in the handouts. Don’t simply repeat what they say.
+* Avoid repetition within responses and across them. Engage an array of topics.
+* Select deep cuts for examples. Avoid ones that appear at the top of search results. 
+
 **Prompt 1**. Use terminology from the ["Understanding Media,"](https://bright.uvic.ca/d2l/le/lessons/489358/topics/4049038) ["Images,"](https://bright.uvic.ca/d2l/le/lessons/489358/topics/4051889) and ["Comics"](https://bright.uvic.ca/d2l/le/lessons/489358/topics/4051899) handouts to annotate one page or spread of a comic of your choice. Fill the margins and gutters of the comic with descriptions of what you see. Then use no more than 425 words to explain 1) why you selected the comic, 2) how you organized the annotations, 3) one or two critical decisions you made while annotating the comic, and 4) something specific you learned about the medium of images during this exercise. You can use software to annotate the page or spread, or you can print it and annotate it manually. Don't forget to attach the annotations to your submission as an image file.
 
 I recommend consulting [these examples](https://bright.uvic.ca/d2l/le/lessons/489358/topics/3984571) of how to annotate a comic. Note how most of them are colour-coded, include a legend, and place the comic on a larger canvas or piece of paper for the sake of annotation.
