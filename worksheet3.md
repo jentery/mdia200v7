@@ -16,7 +16,7 @@ The worksheet is *open-book*, meaning you are allowed to use handouts, the cours
 
 ## Download and Complete the Worksheet 
 
-You should download the worksheet (coming soon) and complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
+You should [download the worksheet](mdia200v7Worksheet3.docx) and complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
 Note that this page contains information (including information about how I'll assess your responses) that does *not* appear in the downloadable worksheet. I thus recommend reading all of it before you start the assignment. 
 
@@ -141,7 +141,7 @@ Please do not forget to cite any material from which you draw ideas or examples.
 
 ## What to Submit 
 
-Please download the worksheet (coming soon), complete it, and submit 1) a DOCX, ODT, PAGES, or PDF file containing your answers and references along with 2) any media files you were prompted to upload or embed. 
+Please [download the worksheet](mdia200v7Worksheet3.docx), complete it, and submit 1) a DOCX, ODT, PAGES, or PDF file containing your answers and references along with 2) any media files you were prompted to upload or embed. 
 
 ## When to Submit It
 
