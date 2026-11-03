@@ -145,6 +145,6 @@ Please [download the worksheet](mdia200v7Worksheet3.docx), complete it, and subm
 
 ## When to Submit It
 
-A response to Worksheet 3 is due by Monday, November 30th, but there is a 24-hour grace period through Tuesday, December 1st. I will deduct five points for every business day I receive Worksheet 3 after December 1st. I will close the submission portal for Worksheet 3 at 10am on Monday, December 14th, and cannot accept any submissions after the portal closes.
+A response to Worksheet 3 is due by Monday, November 30th, but there is a 24-hour grace period through Tuesday, December 1st. I will deduct five points for every business day I receive Worksheet 3 after December 1st. I will close the submission portal for Worksheet 3 on Monday, December 14th, and cannot accept any submissions after the portal closes.
 
 I will not accept any submissions by email. Thanks for understanding. 
