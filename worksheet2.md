@@ -113,6 +113,6 @@ Please [download the worksheet](https://jentery.github.io/mdia200v7/mdia200v7Wor
 
 ## When to Submit It
 
-A response to Worksheet 2 is due by Monday, October 26th, but there is a grace period through Thursday, October 29th. I will deduct five points for every business day I receive Worksheet 2 after October 29th. I will close the submission portal for Worksheet 2 at 10am on Monday, November 9th, and cannot accept any submissions after the portal closes.
+A response to Worksheet 2 is due by Monday, October 26th, but there is a grace period through Thursday, October 29th. I will deduct five points for every business day I receive Worksheet 2 after October 29th. I will close the submission portal for Worksheet 2 on Monday, November 9th, and cannot accept any submissions after the portal closes.
 
 I will not accept any submissions by email. Thanks for understanding. 
